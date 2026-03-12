@@ -1,6 +1,6 @@
 # Elephant in Ching-mai
 
-Welcome to a charming Sokoban-style puzzle adventure game starring a baby elephant and banana-filled crates!
+Welcome to a charming Sokoban-style **puzzle game** starring a baby elephant and banana-filled crates!
 
 ## Platform
 
@@ -9,7 +9,7 @@ Welcome to a charming Sokoban-style puzzle adventure game starring a baby elepha
    
 ## Solve bite-sized puzzles
 
-Move smart, push crates, and find the perfect path. Each stage is designed to be quick to play, yet satisfying to solve.
+Move smart, push crates, and find the perfect path. Each stage is designed for quick play, but the puzzles can be surprisingly challenging.
 
 ## Stage Goal
 
@@ -41,12 +41,13 @@ If you love thoughtful puzzles with a warm, playful vibe—this adventure is for
 * Swipe anywhere (other than the elephant and buttons) to move the elephant.
 * You can move up, down, left, or right.
 * You can push a crate if there is space behind the crate.
-* You CAN'T pull a crate.
+* You **CAN NOT** pull a crate.
 
 ### Drag Move
 
 <img src="https://github.com/hatemogi/Elephant/raw/main/preview/preview_dragmove.png" width="260"/>
 
+Drag from the elephant along the path you want to take, then release on your target tile. The elephant will move there in one go.
 
 ### Undo Move
 
