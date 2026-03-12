@@ -53,24 +53,16 @@ Drag from the elephant along the path you want to take, then release on your tar
 
 <img src="https://github.com/hatemogi/Elephant/raw/main/preview/preview_undomove.png" width="260"/>
 
+
+## Versions
+
+* 1.1(9) - First Release on AppStore
+ 
+## Privacy Policy
+
+![Link](https://github.com/hatemogi/Elephant/blob/main/PRIVACY.md)
+
 ## Credits
 
 * David W. Skinner (Microban maps)
-* https://kenney.nl/assets/ui-audio
-
-
-### Sound Effects
-
-* Box on goal position - https://pixabay.com/sound-effects/technology-new-notification-037-485898/
-* Stage Clear - https://pixabay.com/sound-effects/film-special-effects-game-level-complete-143022/
-* World Clear - https://pixabay.com/sound-effects/musical-brass-new-level-151765/
-* Box Move - https://pixabay.com/sound-effects/household-drawer-wooden-small-sliding-28187/
-* Footstep - https://pixabay.com/sound-effects/film-special-effects-heavy-walking-footsteps-352771/
-* Footstep - https://pixabay.com/sound-effects/film-special-effects-footsteps-dirt-02-73773/
-* Undo - https://pixabay.com/sound-effects/film-special-effects-warp-sound-95647/
-* Elephant Trumpet - https://pixabay.com/sound-effects/nature-elephant-trumpets-growls-6047/
-
-
-### Sound Effects
-
-* Sound Effect by <a href="https://pixabay.com/users/soundreality-31074404/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=391157">Jurij</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=391157">Pixabay</a>
+* [Universfield](https://pixabay.com/users/universfield-28281460/) (Sound Effects)
