@@ -9,7 +9,7 @@ Welcome to a charming Sokoban-style **puzzle game** starring a baby elephant and
    
 ## Solve bite-sized puzzles
 
-Move smart, push crates, and find the perfect path. Each stage is designed for quick play, but the puzzles can be surprisingly challenging.
+Move smart, push crates, and find the perfect path. Each stage is designed for quick play, but the puzzles can be surprisingly **challenging**.
 
 ## Stage Goal
 
@@ -53,6 +53,11 @@ Drag from the elephant along the path you want to take, then release on your tar
 
 <img src="https://github.com/hatemogi/Elephant/raw/main/preview/preview_undomove.png" width="260"/>
 
+Tap the lower-right button or double-tap anywhere to undo. The game will rewind all moves at once to the last point where a box was moved.
+
+## iCloud Sync
+
+Your game progress is synced via iCloud. If you play on multiple devices, your progress will be shared automatically as long as you are signed in with the same Apple Account and iCloud is enabled.
 
 ## Versions
 
