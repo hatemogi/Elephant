@@ -69,5 +69,5 @@ Your game progress is synced via iCloud. If you play on multiple devices, your p
 
 ## Credits
 
-* David W. Skinner (Microban maps)
-* [Universfield](https://pixabay.com/users/universfield-28281460/) (Sound Effects)
+* David W. Skinner (Microban I Map)
+* [Universfield](https://pixabay.com/users/universfield-28281460/) for all sound effects.
