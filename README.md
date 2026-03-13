@@ -65,6 +65,12 @@ Tap the lower-right button or double-tap anywhere to undo. The game will rewind 
 
 Your game progress is synced via iCloud. If you play on multiple devices, your progress will be shared automatically as long as you are signed in with the same Apple Account and iCloud is enabled.
 
+## Videos
+
+* [Introduction, All Tutorials, and Old City Walk 001-002](https://www.youtube.com/watch?v=fsJ4NqnoGHI)
+
+The YouTube video is narrated in Korean. I hope the subtitles or translation on YouTube help make it accessible to you.
+
 ## Versions
 
 * 1.1(9) - First Release on AppStore, MAR 13 2026
@@ -77,7 +83,7 @@ Your game progress is synced via iCloud. If you play on multiple devices, your p
 
 * Please report any bugs or issues on [Issues](https://github.com/hatemogi/Elephant/issues).
 
-## Contacts
+## Contact
 
 [ohucode+elephant@gmail.com]
 
