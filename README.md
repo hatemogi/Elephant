@@ -36,6 +36,7 @@ If you love thoughtful puzzles with a warm, playful vibe—this adventure is for
 *	**Elephant Camp** is the tutorial world, where you learn the basic moves.
 *	**Old City Walk** includes 155 stages. The maps were created by *David W. Skinner*, and the original set is called **Microban I**.
 *	More worlds will be released soon.
+* All stages are solvable, and I have personally confirmed every one of them.
 
 ## Moves
 
@@ -71,6 +72,14 @@ Your game progress is synced via iCloud. If you play on multiple devices, your p
 ## Privacy Policy
 
 [[Read Here]](https://github.com/hatemogi/Elephant/blob/main/PRIVACY.md)
+
+## Bug Report
+
+* Please report any bugs or issues on [Issues](https://github.com/hatemogi/Elephant/issues).
+
+## Contacts
+
+[ohucode+elephant@gmail.com]
 
 ## Credits
 
