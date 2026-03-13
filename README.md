@@ -15,6 +15,11 @@ Move smart, push crates, and find the perfect path. Each stage is designed for q
 
 Push all crates onto the goal tiles. Any crate can go on any goal tile. The elephant can push crates, but cannot pull them.
 
+<img src="https://github.com/hatemogi/Elephant/raw/main/preview/preview_stage_clear.png" width="260"/>
+
+During a trip to Chiang Mai, I had the joy of feeding bananas to an elephant. Watching the elephant happily eat them was a memorable experience, and one of them even waved with its trunk. That warm and delightful memory became the inspiration for this game.
+
+
 ## Play your way
 
 	• Swipe anywhere to move one tile at a time
@@ -61,13 +66,15 @@ Your game progress is synced via iCloud. If you play on multiple devices, your p
 
 ## Versions
 
-* 1.1(9) - First Release on AppStore
+* 1.1(9) - First Release on AppStore, MAR 13 2026
  
 ## Privacy Policy
 
-![Link](https://github.com/hatemogi/Elephant/blob/main/PRIVACY.md)
+[[Read Here]](https://github.com/hatemogi/Elephant/blob/main/PRIVACY.md)
 
 ## Credits
 
 * David W. Skinner (Microban I Map)
 * [Universfield](https://pixabay.com/users/universfield-28281460/) for all sound effects.
+
+I am grateful to David W. Skinner for publicly allowing the use of these maps. I had hoped to contact him directly by email, but was unable to reach him. If contact is possible, please kindly get in touch with me.
