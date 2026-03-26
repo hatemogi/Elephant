@@ -6,7 +6,11 @@ Welcome to a charming Sokoban-style **puzzle game** starring a baby elephant and
 
 * iPhone and iPad
 * iOS 26+
-   
+
+## Download
+
+* [AppStore Dpwnload](https://verify.skilljar.com/c/489cpyp7vhbw)
+
 ## Solve bite-sized puzzles
 
 Move smart, push crates, and find the perfect path. Each stage is designed for quick play, but the puzzles can be surprisingly **challenging**.
